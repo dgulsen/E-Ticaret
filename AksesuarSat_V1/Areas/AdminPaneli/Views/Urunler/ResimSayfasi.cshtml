@@ -1,0 +1,145 @@
+﻿@model AksesuarSat_V1.Models.Urunler
+@using AksesuarSat_V1.Areas.AdminPaneli.Models
+
+
+@{ 
+    ResimManage resim_mng = new ResimManage();
+    var liste = resim_mng.UrununResimleri(Model.UrunlerID);
+
+}
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ResimSayfasi</title>
+    <link href="~/Scripts/dropzone/dropzone.min.css" rel="stylesheet" />
+    <link href="~/site/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Areas/AdminPaneli/bsb/plugins/font-awesome/css/font-awesome.css" rel="stylesheet" />
+ 
+
+</head>
+<body>
+    <div class="container">
+        <!--*************Ürün Bilgileri-->
+        <div class="row">
+            <div style="border:dashed double">
+                <table class="table ">
+                    <tr>
+                        <th>
+                            <h5>Ürün adı:</h5>@Html.DisplayFor(model => model.UrunAdi)
+                        </th>
+                        <th>
+                            <h5>Kategori</h5>@Html.DisplayFor(Model => Model.Kategoriler.KategoriAdi)
+                        </th>
+                        <th>
+                            <h5>Eklenme Tarihi</h5>@Html.DisplayFor(model => model.EklenmeTarihi)
+                        </th>
+                    </tr>
+                </table>
+
+            </div>
+        </div>
+
+        <!--*************Ürünün olan Resimleri-->
+        <div class="row">
+            <h5>Ürünün Fotoğrafları</h5>
+            <div class="text-right">
+                @Ajax.ActionLink("YENİLE", "ResimListesi", new { urunId = Model.UrunlerID }, new AjaxOptions { HttpMethod = "GET", InsertionMode = InsertionMode.Replace, UpdateTargetId = "urunresimalaniId" }, new { @class = "btn btn-primary", id = "resimleriyenileId" })
+            </div>
+
+            <div class="container-fluid" style="border:1px double #808080">
+
+                <div id="urunresimalaniId">
+                    <!--**********************-->
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!--*************Ürün Resim Ekleme Alanı-->
+        <div class="row ">
+            <h5>Resim Ekleme Alanı</h5>
+
+            <div class="container-fluid">
+                @*<form action="/file-upload" class="dropzone" method="post" enctype="multipart/form-data">
+                        <!---->
+                        <div class="fallback">
+                            <input name="file" type="file" multiple />
+                        </div>
+                    </form>*@
+                @*dropzone de yer alan hazır form yapısı yerine ajax form yapısın kullanalım*@
+                @using (Ajax.BeginForm("ResimYukle", new { urunId = Model.UrunlerID }, new AjaxOptions { HttpMethod = "POST" }, new { @class = "dropzone", id = "mydropzone", enctype = "multipart/form-data" }))
+                {
+                    //enctype=multipart/form-data=> resim, dosya eklemek için kullanılır
+                    //
+                }
+
+            </div>
+
+            <div class="text-right">
+
+                @Html.ActionLink("Listeye Dön", "UrunListesi", null, new { @class = "btn btn-warning" })
+                <input id="ResimYukleButton" type="submit" href="#" class="btn btn-primary" value="YÜKLE">
+
+            </div>
+
+
+        </div>
+    </div>
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/site/js/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/Scripts/dropzone/dropzone.js"></script>
+    <script>
+        //alert("Selam");
+        Dropzone.autoDiscover = false;//oto çalışma kapatıldı
+        $(function () {
+            var yenidz = null;//yeni dropzonetanımlamak için yazdık
+            //dropzone ID değerine göre açalım
+            //alert("****");
+            $("#mydropzone").dropzone({
+                dictDefaultMessage: "Resimleri bu alana sürükleyiniz ya da taşıyınız",
+                autoProcessQueue: false,//Resimleri bir diziye(Queue-kuyruğa) ekler
+                addRemoveLinks: true,//resimlerin altına silme linki açar
+                dictRemoveFile: "Resmi Sil",//varsayılan silme linkine isim verir
+                uploadMultiple: true,
+                parallelUploads: 5,//bir defada kaydedilecek dosya sayısı
+                maxFiles: 5,//bir defada yüklenen dosya sayısı
+                acceptedFiles: ".jpg,.jpeg,.png",
+                paramName: "TiklananResimler",
+                init: function () {
+                    yenidz = this;//dropzone oluşturulmadan kuyruğa atılan değerlerle işlemyapılamaz
+                    $("#ResimYukleButton").click(function () {
+                        yenidz.processQueue();
+                    })
+                },
+                success: function (file) {
+                    var onizleme = $(file.previewElement);
+                    //file sabit bir parametredir, gelen dosyanın değerine göre işlem başarılı bir şekilde gereçkleştiğinde okunur
+                    onizleme.addClass("yenidz-success");
+                    setTimeout(function () {//setTimeout resim ekleme başarılı olunca ekleme alanında kaldırılmasını sağlar
+                        yenidz.removeFile(file);
+                    },1000);//1000 milisaniye , 1 saniye
+                },
+                queuecomplete: function () {
+                    ResimleriYenilejs();
+                }
+            });
+            ResimleriYenilejs();
+        });
+
+        function ResimleriYenilejs() {
+            $("#resimleriyenileId").click();
+        };
+      //resimler listesi alanın
+    </script>
+</body>
+</html>

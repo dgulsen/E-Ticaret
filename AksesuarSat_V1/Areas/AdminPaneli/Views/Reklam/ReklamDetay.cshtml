@@ -1,0 +1,73 @@
+﻿@model AksesuarSat_V1.Models.Reklamlar
+
+@{
+    ViewBag.Title = "ReklamDetay";
+    Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="header" style="background-color:#009688;text-align:center">
+    <h2 style="color:white">REKLAM DETAYI</h2>
+</div>
+
+<div>
+    
+    <dl class="dl-horizontal">
+        <dt>
+            @*@Html.DisplayNameFor(model => model.ReklamAciklama)*@
+            AÇIKLAMA
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ReklamAciklama)
+        </dd>
+
+        <dt>
+            @*@Html.DisplayNameFor(model => model.ReklamBaslangicTarihi)*@
+            BAŞLANGIÇ TARİHİ
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ReklamBaslangicTarihi)
+        </dd>
+
+        <dt>
+            @*@Html.DisplayNameFor(model => model.ReklamBitisTarihi)*@
+            BİTİŞ TARİHİ
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ReklamBitisTarihi)
+        </dd>
+
+        <dt>
+            @*@Html.DisplayNameFor(model => model.Resim1)*@
+            RESİM 1
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Resim1)
+        </dd>
+
+        <dt>
+            @*@Html.DisplayNameFor(model => model.Resim2)*@
+            RESİM 2
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Resim2)
+        </dd>
+
+        <dt>
+            @*@Html.DisplayNameFor(model => model.Resim3)*@
+            RESİM 3
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Resim3)
+        </dd>
+
+    </dl>
+</div>
+<p style="margin:0px 0px 50px 70px">
+    @Html.ActionLink("Reklam Listesine Dön", "ReklamListesi", null, new { @class = "btn-sm btn-warning waves-effect" })
+</p>

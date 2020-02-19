@@ -1,0 +1,30 @@
+﻿@*@model IEnumerable<AksesuarSat_V1.Models.Urunler>*@
+<!--PagedList kütüphanesi ekliyoruz. IEnumerable kütüphanesi yerine IPagedList kütüphanesini ekliyoruz. Hem listeleme hem de sayfalandırma yapısını kullanmak için buna ihtiyacımız var-->
+@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<AksesuarSat_V1.Models.Urunler>
+
+@{
+    ViewBag.Title = "UrunListesi";
+    Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="header" style="background-color:#009688;text-align:center;color:white;">
+    <h2 style="color:white;">ÜRÜN LİSTESİ</h2>
+</div>
+
+
+<p>
+    @Html.ActionLink("Yeni Ürün Ekle", "UrunEkleIndex", null, new { @class = "btn btn-success" })
+</p>
+<div id="dvUrunListesi">
+    @Html.Partial("~/Areas/AdminPaneli/Views/Urunler/_UrunListPartial.cshtml",Model)
+</div>
+
+
+
+
+
+
+
+

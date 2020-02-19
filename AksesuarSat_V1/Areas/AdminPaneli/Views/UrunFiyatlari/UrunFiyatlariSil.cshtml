@@ -1,0 +1,74 @@
+﻿@model AksesuarSat_V1.Models.UrunFiyatlari
+
+@{
+    ViewBag.Title = "UrunFiyatlariSil";
+    Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="header" style="background-color:#009688;text-align:center;color:white;">
+    <h2 style="color:white;">ÜRÜN FİYATLARINI SİLME MENÜSÜ</h2>
+</div>
+<div>
+    <h4>UrunFiyatlari</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.UrunAlisFiyati)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UrunAlisFiyati)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UrunSatisFiyati)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UrunSatisFiyati)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FiyatBaslangicTarihi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FiyatBaslangicTarihi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FiyatBitisTarihi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FiyatBitisTarihi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Aciklama)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Aciklama)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Urunler.UrunAdi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Urunler.UrunAdi)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Sil" class="btn-sm btn-danger" /> |
+            @Html.ActionLink("Back to List", "UrunFiyatlariListesi", null, new { @class = "btn-sm btn-info" })
+        </div>
+    }
+</div>

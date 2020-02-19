@@ -1,0 +1,89 @@
+﻿
+@{
+    ViewBag.Title = "PersonelEkle";
+    Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+}
+
+
+
+
+
+<div class="header" style="background-color:#009688;text-align:center;color:white;">
+    <h2 style="color:white;">PERSONEL EKLE</h2>
+</div>
+
+<div class="body">
+    <form id="form_validation" method="POST">
+        <div class="form-group form-float">
+            <div class="form-line">
+                <input type="text" class="form-control" name="adi" required>
+                <label class="form-label">Adi</label>
+            </div>
+        </div>
+        <div class="form-group form-float">
+            <div class="form-line">
+                <input type="text" class="form-control" name="soyadi" required>
+                <label class="form-label">Soyadi</label>
+            </div>
+        </div>
+        <div class="form-group form-float">
+            <div class="form-line">
+                <input type="text" class="form-control" name="telefon" required>
+                <label class="form-label">Telefon</label>
+            </div>
+        </div>
+        <div class="form-group form-float">
+            <div class="form-line">
+                <textarea name="adres" cols="30" rows="5" class="form-control no-resize" required></textarea>
+                <label class="form-label">Adres</label>
+            </div>
+        </div>
+        <div class="form-group form-float">
+            <div class="form-line">
+                <input type="email" class="form-control" name="email" required>
+                <label class="form-label">Email</label>
+            </div>
+        </div>
+        <!--Cinsiyet-->
+        <div class="form-group">
+            <input type="radio" name="Cinsiyet" value="Kadin" id="Kadin" class="with-gap">
+            <label for="Kadin">Kadın</label>
+            <input type="radio" name="Cinsiyet" value="Erkek" id="Erkek" class="with-gap">
+            <label for="Erkek" class="m-l-20">Erkek</label>
+        </div>
+        <!--Medeni hail-->
+        <div class="form-group">
+            <input type="radio" name="medeniHal" value="Evli" id="Evli" class="with-gap" />
+            <label for="Evli">Evli</label>
+            <!-- label ile tanımlanmış for yapısı seçme olanağı verir-->
+            <input type="radio" name="medeniHal" value="Bekar" id="Bekar" class="with-gap" />
+            <label for="Bekar" class="m-l-20">Bekar</label>
+        </div>
+        <div class="form-group form-float">
+            <div class="form-line">
+                <input type="text" class="form-control" name="dogumYeri" required>
+                <label class="form-label">Dogum Yeri</label>
+            </div>
+        </div>
+        <div class="form-group form-float">
+            <div class="form-line">
+                @*<h5>Tarih Seçiniz</h5>*@
+                <label class="label label-danger">Tarih Seçiniz</label><br />
+                <input type="date" class="form-control" name="dogumtarih" placeholder="Dogum Tarihi Seçiniz" required>
+
+            </div>
+        </div>
+        <div class="form-group form-float">
+            <div class="form-line">
+                @*<h5>Tarih Seçiniz</h5>*@
+                <label class="label label-danger">Tarih Seçiniz</label><br />
+                <input type="date" class="form-control" name="isegirisTarihi" placeholder="İşe Giriş Tarihi Seçiniz" required>
+
+            </div>
+        </div>
+
+        <button class="btn btn-primary waves-effect" type="submit">SUBMIT</button>
+    </form>
+</div>
+@Html.ActionLink("Listeye Dön", "PersonelListesi", null, new { @class = "btn btn-warning" })
+

@@ -1,0 +1,39 @@
+﻿@*@model IEnumerable<AksesuarSat_V1.Models.Uyeler>*@
+@using PagedList;
+@using PagedList.Mvc;
+@model AksesuarSat_V1.Models.Uyeler
+@{
+    ViewBag.Title = "UyeListesi";
+    Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="header" style="background-color:#009688;text-align:center;color:white;">
+    <h2 style="color:white;">ÜYE LİSTESİ</h2>
+</div>
+<div class="row" id="uyelfiltreler">
+    @*<div class="container col-md-6">
+            <input class="col-md-4 form-control" type="text" name="name" value="" />
+            <input class="col-md-4 form-control" type="text" name="name" value="" />
+            <input type="submit" class="btn btn-primary" name="name" value="ARA" />
+        </div>*@
+    @using (Ajax.BeginForm("UyeListesi", "Uyeler", FormMethod.Post, new AjaxOptions { OnSuccess = "jsFiltrele" }))
+    {
+        <div class="col-md-3">
+            @Html.TextBoxFor(model => model.UyeAdi, new { @class = "form-control",@placeholder="Üye adına göre ara",@id="adi" })
+        </div>
+        <div class="col-md-3">
+            @Html.TextBoxFor(model => model.UyeSoyadi, new { @class = "form-control",@placeholder="Üye soyadına göre ara" })
+        </div>
+        <input type="submit" class="btn btn-primary" name="name" value="Ara" />
+    }
+
+</div>
+<!--tabletagini alıp partial view sayfasına taşıdım-->
+<div id="dvuyelistesi">
+    @Html.Partial("~/Areas/AdminPaneli/Views/Uyeler/_UyeListPartial.cshtml", Model)
+</div>
+<script type="text/javascript">
+    function jsFiltrele(gelendeger) {
+        $("#dvuyelistesi").html(gelendeger);
+    }
+</script>

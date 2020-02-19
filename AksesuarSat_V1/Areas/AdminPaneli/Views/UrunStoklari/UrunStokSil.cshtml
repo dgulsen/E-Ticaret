@@ -1,0 +1,77 @@
+﻿@model AksesuarSat_V1.Models.UrunStoklari
+
+@{
+    ViewBag.Title = "UrunStokSil";
+    Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="header">
+    <h2>ÜRÜN STOK SİL</h2>
+</div>
+
+<h3 style="margin-left:20px;">Stoğu silmek istediğinize emin misiniz?</h3>
+<div>
+    <br />
+    <dl class="dl-horizontal">
+
+        <dt>
+            Adı
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Urunler.UrunAdi)
+        </dd>
+
+        <dt>
+            Stok Miktarı
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StokMiktari)
+        </dd>
+
+        <dt>
+            Kalan Stok Miktarı
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KalanUrun)
+        </dd>
+
+        <dt>
+            Başlangıç Tarihi
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BaslangicTarih)
+        </dd>
+
+        <dt>
+            Bitiş Tarihi
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BitisTarihi)
+        </dd>
+
+        <dt>
+            Açıklama
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Aciklama)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color" style="margin-left:20px;">
+            <input type="submit" value="Delete" class="btn btn-danger" />
+            @Html.ActionLink("Listeye Dön", "UrunStoklariListesi", null, new { @class = "btn btn-info" })
+        </div>
+    }
+    <br />
+</div>

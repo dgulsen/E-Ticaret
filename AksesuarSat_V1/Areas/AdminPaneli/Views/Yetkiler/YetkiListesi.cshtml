@@ -1,0 +1,49 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<AksesuarSat_V1.Models.Yetkiler>
+@{
+    ViewBag.Title = "YetkiListesi";
+    Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="header" style="background-color:#009688;text-align:center;color:white;">
+    <h2 style="color:white;">YETKİLER LİSTESİ</h2>
+</div>
+
+
+<p>
+    @Html.ActionLink("EKLE", "YetkiEkle")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @*@Html.DisplayNameFor(model => model.YetkiAdi)*@
+            YETKİ ADI
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Personeller.Adi)*@
+            PERSONEL ADI
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.YetkiAdi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Personeller.Adi)
+            </td>
+            <td>
+                @Html.ActionLink("Güncelle", "YetkiGuncelle", new { guncelleId = item.YetkilerID }, new { @class = "btn btn-info" }) |
+                @*@Html.ActionLink("Detaylar", "Details", new { id = item.YetkilerID }) |*@
+                @Html.ActionLink("Sil", "YetkiSil", new { silId = item.YetkilerID }, new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+    }
+
+</table>
+
+@Html.PagedListPager(Model, numara => Url.Action("YetkiListesi", "Yetkiler", new { sayfaNo = numara }))

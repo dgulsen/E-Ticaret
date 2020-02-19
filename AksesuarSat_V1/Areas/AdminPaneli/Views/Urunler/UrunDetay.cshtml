@@ -1,0 +1,104 @@
+﻿@model AksesuarSat_V1.Models.Urunler
+
+@{
+    ViewBag.Title = "UrunDetay";
+    Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+}
+@section _cssyaz{
+    <link href="~/Scripts/dropzone/dropzone.min.css" rel="stylesheet" />
+}
+
+<div class="header" style="background-color:#009688;text-align:center;color:white;">
+    <h2 style="color:white;">ÜRÜN DETAY</h2>
+</div>
+
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @*@Html.DisplayNameFor(model => model.UrunAdi)*@
+            ÜRÜN ADI
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UrunAdi)
+
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BirimFiyat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BirimFiyat)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EklenmeTarihi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EklenmeTarihi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Aciklama)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Aciklama)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Kategoriler.KategoriAdi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Kategoriler.KategoriAdi)
+        </dd>
+
+    </dl>
+    <div style="margin:0px 0px 2% 5%;">
+        @Html.ActionLink("Listeye Dön", "UrunListesi", null, new { @class = "btn-sm btn-warning" })
+    </div>
+
+</div>
+
+<div class="container-fluid">
+    @*<form action="/file-upload" class="dropzone" method="post" enctype="multipart/form-data">
+            <!---->
+            <div class="fallback">
+                <input name="file" type="file" multiple />
+            </div>
+        </form>*@
+    <!-- dropzone de yer alan hazır form yapısı yerine ajax form yapısın kullanalım-->
+    @using (Ajax.BeginForm("ResimYukle", new { urunId = Model.UrunlerID }, new AjaxOptions { HttpMethod = "POST" }, new { @class = "dropzone", id = "mydropzone", enctype = "multipart/form-data" }))
+    {
+        //enctype=multipart/form-data=> resim, dosya eklemek için kullanılır
+        //
+    }
+
+</div>
+
+@section _jsyaz{
+    @*<script src="~/Scripts/jquery-1.10.2.js"></script>*@
+    <script src="~/Scripts/dropzone/dropzone.js"></script>
+
+    <script>
+        //alert("Selam");
+        Dropzone.autoDiscover = false;//oto çalışma kapatıldı
+            //$(function () {
+            //    var yenidz = null;//yeni dropzonetanımlamak için yazdık
+            //    //dropzone ID değerine göre açalım
+            //    alert("****");
+            //    //$("#mydropzone").dropzone({
+            //    //    //dictDefaultMessage: "merhaba",
+            //    //    //autoProcessQueue: false,
+
+            //    //});
+
+            //})
+
+    </script>
+
+}

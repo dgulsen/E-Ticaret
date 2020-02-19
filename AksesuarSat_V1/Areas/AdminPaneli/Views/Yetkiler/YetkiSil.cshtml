@@ -1,0 +1,44 @@
+﻿@model AksesuarSat_V1.Models.Yetkiler
+
+@{
+    ViewBag.Title = "YetkiSil";
+    Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="header" style="background-color:#009688;text-align:center;color:white;">
+    <h2 style="color:white;">YETKİ SİL</h2>
+</div>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Yetkiler</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.YetkiAdi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.YetkiAdi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Personeller.Adi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Personeller.Adi)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="SİL" class="btn btn-default" /> |
+            @Html.ActionLink("Listeye Geri Dön", "YetkiListesi", null, new { @class = "btn btn-warning" })
+        </div>
+    }
+</div>

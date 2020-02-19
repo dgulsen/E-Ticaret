@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="8b037f2b715246d884840171a8553818" Name="Diagram1" ZoomLevel="101">
+        <EntityTypeShape EntityType="OyunTicaretDBModel.indirimler" Width="1.5" PointX="6" PointY="23.5" />
+        <EntityTypeShape EntityType="OyunTicaretDBModel.indirimTurleri" Width="1.5" PointX="7.75" PointY="6.375" />
+        <EntityTypeShape EntityType="OyunTicaretDBModel.Kategoriler" Width="1.5" PointX="0.75" PointY="9" />
+        <EntityTypeShape EntityType="OyunTicaretDBModel.Odemeler" Width="1.5" PointX="8.25" PointY="12.125" />
+        <EntityTypeShape EntityType="OyunTicaretDBModel.Personeller" Width="1.5" PointX="8.75" PointY="1.5" />
+        <EntityTypeShape EntityType="OyunTicaretDBModel.Reklamlar" Width="1.5" PointX="10.75" PointY="5.375" />
+        <EntityTypeShape EntityType="OyunTicaretDBModel.Resimler" Width="1.5" PointX="5.25" PointY="19" />
+        <EntityTypeShape EntityType="OyunTicaretDBModel.SiparisDetaylar" Width="1.5" PointX="8.25" PointY="8.75" />
+        <EntityTypeShape EntityType="OyunTicaretDBModel.Siparisler" Width="1.5" PointX="6" PointY="0.75" />
+        <EntityTypeShape EntityType="OyunTicaretDBModel.sysdiagrams" Width="1.5" PointX="10.75" PointY="9.375" />
+        <EntityTypeShape EntityType="OyunTicaretDBModel.UrunFiyatlari" Width="1.5" PointX="5.25" PointY="15.75" />
+        <EntityTypeShape EntityType="OyunTicaretDBModel.Urunler" Width="1.5" PointX="3" PointY="8.25" />
+        <EntityTypeShape EntityType="OyunTicaretDBModel.UrunStoklari" Width="1.5" PointX="5.25" PointY="8.875" />
+        <EntityTypeShape EntityType="OyunTicaretDBModel.UyeAdresleri" Width="1.5" PointX="5.25" PointY="12.625" />
+        <EntityTypeShape EntityType="OyunTicaretDBModel.Uyeler" Width="1.5" PointX="3" PointY="2.875" />
+        <EntityTypeShape EntityType="OyunTicaretDBModel.Yetkiler" Width="1.5" PointX="11" PointY="2.375" />
+        <EntityTypeShape EntityType="OyunTicaretDBModel.Yorumlar" Width="1.5" PointX="5.25" PointY="4.625" />
+        <AssociationConnector Association="OyunTicaretDBModel.FK_SiparisDetaylar_indirimler" />
+        <AssociationConnector Association="OyunTicaretDBModel.FK_Urunler_Kategoriler" />
+        <AssociationConnector Association="OyunTicaretDBModel.FK_Odemeler_Siparisler" />
+        <AssociationConnector Association="OyunTicaretDBModel.FK_Yetkiler_Personeller" />
+        <AssociationConnector Association="OyunTicaretDBModel.FK_Resimler_Urunler" />
+        <AssociationConnector Association="OyunTicaretDBModel.FK_SiparisDetaylar_Siparisler" />
+        <AssociationConnector Association="OyunTicaretDBModel.FK_SiparisDetaylar_Urunler" />
+        <AssociationConnector Association="OyunTicaretDBModel.FK_Siparisler_Uyeler" />
+        <AssociationConnector Association="OyunTicaretDBModel.FK_UrunFiyatlari_Urunler" />
+        <AssociationConnector Association="OyunTicaretDBModel.FK_UrunStoklari_Urunler" />
+        <AssociationConnector Association="OyunTicaretDBModel.FK_Yorumlar_Urunler" />
+        <AssociationConnector Association="OyunTicaretDBModel.FK_UyeAdresleri_Uyeler" />
+        <AssociationConnector Association="OyunTicaretDBModel.FK_Yorumlar_Uyeler" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

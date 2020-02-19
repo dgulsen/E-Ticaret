@@ -1,0 +1,60 @@
+﻿@*@model IEnumerable<AksesuarSat_V1.Models.Odemeler>*@
+@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<AksesuarSat_V1.Models.Odemeler>
+
+@{
+    ViewBag.Title = "OdemeListe";
+    Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+}
+
+
+<div class="header" style="background-color:#009688;text-align:center;color:white;">
+    <h2 style="color:white;">ODEME LİSTESİ</h2>
+</div>
+
+<p>
+    @Html.ActionLink("Yeni Ödeme Ekle", "Create", null, new { @class = "btn btn-success" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().ToplamTutari)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().KargoTutari)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().SiparisTarihi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstOrDefault().Siparisler.Aciklama)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ToplamTutari)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KargoTutari)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SiparisTarihi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Siparisler.Aciklama)
+            </td>
+            <td>
+               
+                @Html.ActionLink("Detay", "OdemeDetay", new { id = item.OdemelerID }, new { @class = "btn btn-warning" }) |
+                @Html.ActionLink("Sil", "OdemeSil", new { id = item.OdemelerID }, new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+    }
+
+</table>
+@Html.PagedListPager(Model, numara => Url.Action("OdemeListe", "Odemeler", new { sayfaNo = numara }))

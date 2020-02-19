@@ -1,0 +1,105 @@
+﻿@model List<AksesuarSat_V1.Controllers.SepetController.SepetSanalClass>
+@{
+    ViewBag.Title = "SepetListesi";
+    Layout = "~/Views/Shared/SiteLayout.cshtml";
+}
+
+<div class="section">
+    <!-- container -->
+    <div class="container">
+
+        <div class="col-md-12">
+            <div class="order-summary clearfix">
+                <div class="section-title">
+                    <h3 class="title">Order Review</h3>
+                </div>
+                <table class="shopping-cart-table table">
+                    <thead>                       
+                            <tr>
+                                <th>Product</th>
+                                <th></th>
+                                <th class="text-center">Price</th>
+                                <th class="text-center">Quantity</th>
+                                <th class="text-center">Total</th>
+                                <th class="text-right"></th>
+                            </tr>
+                    </thead>
+                    <tbody>
+                        @{
+                            decimal SepetToplam = 0;
+                        }
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td class="thumb">
+                                    @if (item.resim.Count() > 0)
+                                    {
+                                        <img src="~/Resimler/@item.resim.FirstOrDefault()" alt="">
+                                    }
+                                    else
+                                    {
+                                        <img src="~/Resimler/noimage.jpg" alt="">
+                                    }
+
+                                </td>
+                                <td class="details">
+                                    <a href="#">@item.urun_adi</a>
+                                    <ul>
+                                        <li><span>Size: XL</span></li>
+                                        <li><span>Color: Camelot</span></li>
+                                    </ul>
+                                </td>
+                                <td class="price text-center">
+                                    @{
+                                        decimal indirimFiyat = item.urun_fiyat * 0.90m;
+                                    }
+                                    <strong>@indirimFiyat.ToString("C")</strong><br><del class="font-weak">
+
+                                        <small>@item.urun_fiyat.ToString("C")</small>
+                                    </del>
+                                </td>
+                                <td class="qty text-center"><input class="input" type="number" value="@item.adet"></td>
+                                <td class="total text-center">
+                                    @{
+                                        decimal Toplam = item.adet * indirimFiyat;
+
+                                        SepetToplam = SepetToplam + Toplam;
+
+                                    }
+                                    <strong class="primary-color">@Toplam.ToString("C")</strong>
+                                </td>
+                                <td class="text-right"><button class="main-btn icon-btn"><i class="fa fa-close"></i></button></td>
+                            </tr>
+
+                        }
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <th class="empty" colspan="3"></th>
+                            <th>SUBTOTAL</th>
+                            <th colspan="2" class="sub-total">$97.50</th>
+                        </tr>
+                        <tr>
+                            <th class="empty" colspan="3"></th>
+                            <th>SHIPING</th>
+                            <td colspan="2">Free Shipping</td>
+                        </tr>
+                        <tr>
+                            <th class="empty" colspan="3"></th>
+                            <th>Sepet Toplam</th>
+                            <th colspan="2" class="total">
+                                @*@Model.Sum(k=>k.toplam_fiyat).ToString("C")*@
+                                @SepetToplam.ToString("C")
+                            </th>
+                        </tr>
+                    </tfoot>
+                </table>
+                <div class="pull-right">
+                    <button class="primary-btn">Place Order</button>
+                </div>
+            </div>
+
+        </div>
+
+        </div>
+    </div>

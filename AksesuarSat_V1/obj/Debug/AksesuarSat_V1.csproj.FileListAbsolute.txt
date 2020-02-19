@@ -1,0 +1,1480 @@
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.AppContext.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Collections.Immutable.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Console.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Compression.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Claims.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.ValueTuple.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.Web.Infrastructure.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CopyComplete
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191218 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.AppContext.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Collections.Immutable.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Console.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Compression.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Claims.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.ValueTuple.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.Web.Infrastructure.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CopyComplete
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191219 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.AppContext.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Collections.Immutable.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Console.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Compression.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Claims.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.ValueTuple.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.Web.Infrastructure.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CopyComplete
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191220 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.AppContext.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Collections.Immutable.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Console.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Compression.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Claims.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.ValueTuple.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.Web.Infrastructure.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CopyComplete
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191223 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.AppContext.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Collections.Immutable.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Console.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Compression.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Claims.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.ValueTuple.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.Web.Infrastructure.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CopyComplete
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191224 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.AppContext.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Collections.Immutable.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Console.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Compression.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Claims.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.ValueTuple.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.Web.Infrastructure.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CopyComplete
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191225 ETicaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.pdb
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll.config
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.pdb
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe.config
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.rsp
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe.config
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.rsp
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.AppContext.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Collections.Immutable.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Console.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Compression.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.AccessControl.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Claims.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.ValueTuple.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe.config
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.rsp
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe.config
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.Web.Infrastructure.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.xml
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.xml
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.pdb
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.xml
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.xml
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.xml
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.xml
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.xml
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.xml
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.xml
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.xml
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csprojAssemblyReference.cache
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CoreCompileInputs.cache
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CopyComplete
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.dll
+D:\Dosyalarım\DERS\Wissen\Ödev\191225 E Ticaret\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.pdb
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll.config
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.pdb
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe.config
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.rsp
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe.config
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.rsp
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.AppContext.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Console.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe.config
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.rsp
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.xml
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.xml
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.pdb
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.xml
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.xml
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.xml
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.xml
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.xml
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.xml
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csprojAssemblyReference.cache
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CoreCompileInputs.cache
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CopyComplete
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.dll
+C:\Users\Emre Açıkgöz\Desktop\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.pdb
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll.config
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.pdb
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe.config
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.rsp
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe.config
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.rsp
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.AppContext.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Console.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe.config
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.rsp
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.xml
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.xml
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.pdb
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.xml
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.xml
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.xml
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.xml
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.xml
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.xml
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csprojAssemblyReference.cache
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CoreCompileInputs.cache
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CopyComplete
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.dll
+C:\Users\Aybars\Desktop\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.pdb
+C:\Users\Devran\Desktop\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csprojAssemblyReference.cache
+C:\Users\Devran\Desktop\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CoreCompileInputs.cache
+C:\Users\Devran\Desktop\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.dll
+C:\Users\Devran\Desktop\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.pdb
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csprojAssemblyReference.cache
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CoreCompileInputs.cache
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.pdb
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll.config
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.pdb
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe.config
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.rsp
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe.config
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.rsp
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.AppContext.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Console.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe.config
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.rsp
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.xml
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.xml
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.pdb
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.xml
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.xml
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.xml
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.xml
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.xml
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.xml
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Oyun-4\Desktop\191225_OyunEticaretProje\191225_OyunEticaretProje -\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CopyComplete
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.AppContext.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Collections.Immutable.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Console.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Compression.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Claims.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.ValueTuple.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.Web.Infrastructure.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CopyComplete
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191226 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.AppContext.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Collections.Immutable.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Console.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Compression.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Claims.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.ValueTuple.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.Web.Infrastructure.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CopyComplete
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191230 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.AppContext.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Collections.Immutable.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Console.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Compression.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Claims.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.ValueTuple.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.Web.Infrastructure.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CopyComplete
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\191231 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.AppContext.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Collections.Immutable.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Console.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Compression.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Claims.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.ValueTuple.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.Web.Infrastructure.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CopyComplete
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200102 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.AppContext.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Collections.Immutable.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Console.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Compression.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Claims.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.ValueTuple.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.Web.Infrastructure.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CopyComplete
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200103 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.AppContext.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Collections.Immutable.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Console.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Compression.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Claims.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.ValueTuple.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.Web.Infrastructure.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CopyComplete
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200106 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.AppContext.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Collections.Immutable.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Console.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Compression.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Claims.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.ValueTuple.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.Web.Infrastructure.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csprojAssemblyReference.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CopyComplete
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200107 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.pdb
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll.config
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.pdb
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.xml
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.pdb
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.xml
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.xml
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.xml
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.xml
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.xml
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.xml
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CopyComplete
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.pdb
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe.config
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.rsp
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe.config
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.rsp
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.AppContext.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Console.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe.config
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.rsp
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section1\Desktop\200108 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\AksesuarSat_V1.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\csi.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.AppContext.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Collections.Immutable.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Console.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Compression.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.IO.Pipes.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.AccessControl.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Claims.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.ValueTuple.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\vbc.rsp
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\roslyn\VBCSCompiler.exe.config
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.Web.Infrastructure.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\EntityFramework.SqlServer.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\FakeData.pdb
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\PagedList.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Deployment.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Webpages.Razor.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Helpers.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\System.Web.Mvc.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CoreCompileInputs.cache
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.csproj.CopyComplete
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.dll
+E:\Oyun 4 sınıfı\11-ASP.Net MVC E Ticaret\200109 ETicaret\191225_OyunEticaretProje\AksesuarSat_V1\AksesuarSat_V1\obj\Debug\AksesuarSat_V1.pdb

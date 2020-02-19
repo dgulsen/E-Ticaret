@@ -1,0 +1,87 @@
+﻿@model AksesuarSat_V1.Models.indirimler
+
+@{
+    ViewBag.Title = "indirimSil";
+    Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="header" style="background-color:#fb483a; text-align:center;">
+    <h2 style=" color:white">Ürün Sil</h2>
+</div>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @*@Html.DisplayNameFor(model => model.indirimTurAdi)*@
+            İndirim Türü
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.indirimTurAdi)
+        </dd>
+
+        <dt>
+            @*@Html.DisplayNameFor(model => model.indirimFiyatSekli)*@
+            Fiyat Şekli
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.indirimFiyatSekli)
+        </dd>
+
+        <dt>
+            @*@Html.DisplayNameFor(model => model.BaslamaTarihi)*@
+            İndirim Başlangıç Tarihi
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BaslamaTarihi)
+        </dd>
+
+        <dt>
+            @*@Html.DisplayNameFor(model => model.BitisTarihi)*@
+            İndirim Bitiş Tarihi
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BitisTarihi)
+        </dd>
+
+        <dt>
+            @*@Html.DisplayNameFor(model => model.indirimMiktari)*@
+            Miktarı
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.indirimMiktari)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Durumu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Durumu)
+        </dd>
+
+        <dt>
+            @*@Html.DisplayNameFor(model => model.Aciklama)*@
+            Açıklama
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Aciklama)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div style="margin:0px 0px 0px 180px" class="form-actions no-color">
+            <input type="submit" value="SİL" class="btn btn-danger" />
+            @Html.ActionLink("Listeye Geri Dön", "indirimListesi", null, new { @class = "btn btn-success" })
+        </div>
+    }
+</div>

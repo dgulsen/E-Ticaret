@@ -1,0 +1,53 @@
+﻿@model AksesuarSat_V1.Models.Odemeler
+
+@{
+    ViewBag.Title = "OdemeDetay";
+    Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="header" style="background-color:#009688;text-align:center;color:white;">
+    <h2 style="color:white;">ODEME DETAY</h2>
+</div>
+
+<div>
+    <h4>Odemeler</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ToplamTutari)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ToplamTutari)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.KargoTutari)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KargoTutari)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SiparisTarihi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SiparisTarihi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Siparisler.Aciklama)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Siparisler.Aciklama)
+        </dd>
+
+    </dl>
+</div>
+<p>
+   
+    @Html.ActionLink("Back to List", "OdemeListe", null, new { @class = "btn btn-success" })
+</p>

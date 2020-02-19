@@ -1,0 +1,75 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<AksesuarSat_V1.Models.UrunFiyatlari>
+
+@{
+    ViewBag.Title = "UrunFiyatlariListesi";
+    Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="header" style="background-color:#009688;text-align:center;color:white;">
+    <h2 style="color:white;">ÜRÜN FİYATLARI LİSTESİ</h2>
+</div>
+
+<p>
+    @Html.ActionLink("Ürün Fiyatı Ekle", "UrunFiyatEkleIndex", null, new { @class = "btn-sm btn-info" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @*@Html.DisplayNameFor(model => model.UrunAlisFiyati)*@
+            Ürün Alış Fiyatı
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.UrunSatisFiyati)*@
+            Ürün Satış Fiyatı
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.FiyatBaslangicTarihi)*@
+            Fiyat Başlangıç Tarihi
+        </th>
+        @*<th>
+                @Html.DisplayNameFor(model => model.FiyatBitisTarihi)
+                Fiyat Bitiş Tarihi
+            </th>*@
+        @*<th>
+                @Html.DisplayNameFor(model => model.Aciklama)
+            </th>*@
+        <th>
+            @*@Html.DisplayNameFor(model => model.Urunler.UrunAdi)*@
+            Ürün Adı
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UrunAlisFiyati)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UrunSatisFiyati)
+            </td>
+            <td>
+                @*@Html.DisplayFor(modelItem => item.FiyatBaslangicTarihi)*@
+                @item.FiyatBaslangicTarihi.ToShortDateString()
+            </td>
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.FiyatBitisTarihi)
+                </td>*@
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.Aciklama)
+                </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.Urunler.UrunAdi)
+            </td>
+            <td>
+                @Html.ActionLink("GNC", "UrunFiyatGuncelle", new { guncelleid = item.UrunFiyatlariID }, new { @class = "btn-sm btn-info" })
+                @Html.ActionLink("DTY", "UrunFiyatlariDetay", new { urunfiyatlariId = item.UrunFiyatlariID }, new { @class = "btn-sm btn-warning" })
+                @Html.ActionLink("SİL", "UrunFiyatlariSil", new { urunfiyatlariId = item.UrunFiyatlariID }, new { @class = "btn-sm btn-danger" })
+            </td>
+        </tr>
+    }
+
+</table>

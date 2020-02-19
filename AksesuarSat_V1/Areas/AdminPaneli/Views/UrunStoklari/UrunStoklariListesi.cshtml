@@ -1,0 +1,60 @@
+﻿@*@model IEnumerable<AksesuarSat_V1.Models.UrunStoklari>*@
+@model IPagedList<AksesuarSat_V1.Models.UrunStoklari>
+@using PagedList;
+@using PagedList.Mvc;
+
+@{
+    ViewBag.Title = "UrunStoklariListesi";
+    Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="header">
+    <h2>ÜRÜN STOKLARI LİSTESİ</h2>
+</div>
+
+<p style="margin-left:20px; margin-top:10px;">
+    @Html.ActionLink("Ürün Stoğu Ekle", "UrunStokEkle", null, new { @class = "btn btn-success" })
+</p>
+<table class="table table-hover" style="margin: 10px 10px 10px 10px;">
+    <tr>
+        <th>
+            Ürün Adı
+        </th>
+        <th>
+            Stok Miktarı
+        </th>
+        <th>
+            Kalan Ürün
+        </th>
+        <th>
+            Stok Başlangıç Tarihi
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Urunler.UrunAdi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StokMiktari)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KalanUrun)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BaslangicTarih)
+            </td>
+            <td>
+                @Html.ActionLink("Düzenle", "UrunStokGuncelle", null, new { guncelleId = item.UrunStoklariID }, new { @class = "btn-sm btn-warning" })
+                @Html.ActionLink("Detay", "UrunStokDetay", null, new { detayId = item.UrunStoklariID }, new { @class = "btn-sm btn-info" })
+                @Html.ActionLink("Sil", "UrunStokSil", null, new { silId = item.UrunStoklariID }, new { @class = "btn-sm btn-danger" })
+            </td>
+        </tr>
+    }
+
+</table>
+@Html.PagedListPager(Model, numara => Url.Action("UrunStoklariListesi", "UrunStoklari", new { sayfaNo = numara }))
+

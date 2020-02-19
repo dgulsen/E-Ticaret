@@ -1,0 +1,61 @@
+﻿@model AksesuarSat_V1.Models.Odemeler
+
+@{
+    ViewBag.Title = "OdemeSil";
+    Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="header" style="background-color:#009688;text-align:center;color:white;">
+    <h2 style="color:white;">ODEME SİL</h2>
+</div>
+
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ToplamTutari)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ToplamTutari)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.KargoTutari)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KargoTutari)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SiparisTarihi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SiparisTarihi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Siparisler.Aciklama)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Siparisler.Aciklama)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "OdemeListe")
+        </div>
+    }
+</div>

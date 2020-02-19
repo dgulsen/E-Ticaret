@@ -1,0 +1,71 @@
+﻿@model AksesuarSat_V1.Models.UrunStoklari
+
+@{
+                /**/
+
+                ViewBag.Title = "UrunStokDetay";
+                Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="header">
+    <h2>ÜRÜN STOK DETAYLARI</h2>
+</div>
+
+<div>
+    <br />
+    <dl class="dl-horizontal">
+        <dt>
+            Ürün Adı
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Urunler.UrunAdi)
+        </dd>
+
+        <dt>
+            Stok Miktarı
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StokMiktari)
+        </dd>
+
+        <dt>
+            Kalan Ürün Miktarı
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KalanUrun)
+        </dd>
+
+        <dt>
+            Başlangıç Tarihi
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BaslangicTarih)
+        </dd>
+
+        <dt>
+            Bitiş Tarihi
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BitisTarihi)
+        </dd>
+
+        <dt>
+            Açıklama
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Aciklama)
+        </dd>
+
+    </dl>
+</div>
+<p style="margin-left:20px;">
+    @Html.ActionLink("Düzenle", "UrunStokGuncelle", null, new { guncelleId = Model.UrunStoklariID }, new { @class = "btn-sm btn-warning" })
+    @Html.ActionLink("Listeye Dön", "UrunStoklariListesi", null, new { @class = "btn-sm btn-info" })
+</p>
+<br />

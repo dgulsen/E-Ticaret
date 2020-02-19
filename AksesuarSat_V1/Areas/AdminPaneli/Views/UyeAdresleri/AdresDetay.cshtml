@@ -1,0 +1,31 @@
+﻿@model  List<AksesuarSat_V1.Models.UyeAdresleri>
+
+@{
+    ViewBag.Title = "AdresDetay";
+    Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="header" style="background-color:#009688;text-align:center;color:white;">
+    <h2 style="color:white;">ADRES DETAY</h2>
+</div>
+<div>
+    <hr />
+
+    @{int adet = 0; }
+    @foreach (var item in Model)
+    {
+        <div style="padding:1% 0 0 5%;font-size:15px;color:darkred;">
+            @{adet++;
+            }
+            <p>  <b>@adet </b>.Adres</p>
+
+
+        </div> 
+        <div style="border:1px double #808080;padding:0 2% 0 5%;margin:0 5% 0 10%;height:100px;">@item.Adres</div>
+
+    }
+
+</div>
+<p>
+    @Html.ActionLink("Listeye Dön", "UyeAdresListesi", null, new { @class = "btn btn-success" })
+</p>

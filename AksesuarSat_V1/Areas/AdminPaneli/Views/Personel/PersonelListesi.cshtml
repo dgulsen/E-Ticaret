@@ -1,0 +1,26 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<AksesuarSat_V1.Models.Personeller>
+
+@{
+    ViewBag.Title = "PersonelListesi";
+    Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="header" style="background-color:#009688;text-align:center;color:white;">
+    <h2 style="color:white;">PERSONEL LİSTESİ</h2>
+</div>
+
+
+<p>
+    @Html.ActionLink("Yeni Personel Ekle", "PersonelIndex", null, new { @class = "btn btn-success" })
+</p>
+
+<div id="dvPersonelListesi">
+    @Html.Partial("~/Areas/AdminPaneli/Views/Personel/_PersListPartial.cshtml",Model)
+
+</div>
+
+
+
+

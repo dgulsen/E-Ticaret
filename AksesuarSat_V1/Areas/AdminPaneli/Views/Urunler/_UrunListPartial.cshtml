@@ -1,0 +1,69 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<AksesuarSat_V1.Models.Urunler>
+
+<table class="table">
+    <tr>
+        <th>
+            @*@Html.DisplayNameFor(model => model.FirstOrDefault().UrunAdi)*@
+            ÜRÜN ADI
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.FirstOrDefault().BirimFiyat)*@
+            FİYAT
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.EklenmeTarihi)*@
+            GİRİŞ TAR
+        </th>
+        @*<th>
+                @Html.DisplayNameFor(model => model.Aciklama)
+            </th>*@
+        <th>
+            @*@Html.DisplayNameFor(model => model.Kategoriler.KategoriAdi)*@
+            KATEGORİ
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UrunAdi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BirimFiyat)
+            </td>
+            <td>
+                @*@Html.DisplayFor(modelItem => item.EklenmeTarihi)*@
+
+                @item.EklenmeTarihi.ToShortDateString()
+            </td>
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.Aciklama)
+                </td>*@
+            <td>
+                <!--ilk değer null gelmektedir.-->
+                @Html.DisplayFor(modelItem => item.Kategoriler.KategoriAdi)
+
+            </td>
+            <td>
+                @Html.ActionLink("Gnc", "UrunGuncelle", new { guncelleId = item.UrunlerID }, new { @class = "btn btn-info" })
+                @Html.ActionLink("Dty", "UrunDetay", new { detayId = item.UrunlerID }, new { @class = "btn btn-warning" })
+                @Html.ActionLink("Sil", "UrunSil", new { silId = item.UrunlerID }, new { @class = "btn btn-danger" })
+
+                @Html.ActionLink("insert_photo", "ResimSayfasi", new { urunId = item.UrunlerID }, new { @class = "btn btn-primary material-icons" })
+
+                @*<a class="btn btn-primary" href="@Url.Action("ResimSayfasi",new { urunId=item.UrunlerID})">
+                        <i style="color:blue;width:10%;margin-top:10%;" class="material-icons">insert_photo</i>Resim
+                    </a>*@
+
+            </td>
+
+        </tr>
+    }
+
+</table>
+
+@Html.PagedListPager(Model, numara => Url.Action("UrunListesi", "Urunler", new { sayfaNo = numara }),PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(new AjaxOptions { UpdateTargetId="dvUrunListesi"}))

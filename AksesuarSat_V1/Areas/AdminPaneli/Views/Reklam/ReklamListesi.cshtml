@@ -1,0 +1,77 @@
+﻿@*@model IEnumerable<AksesuarSat_V1.Models.Reklamlar>*@
+@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<AksesuarSat_V1.Models.Reklamlar>
+
+@{
+    ViewBag.Title = "ReklamListesi";
+    Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="header" style="background-color:#009688;text-align:center">
+    <h2 style="color:white">REKLAM LİSTESİ</h2>
+</div>
+
+<p>
+    @Html.ActionLink("REKLAM EKLE", "ReklamEkleIndex", null, new { @class = "btn btn-success waves-effect" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @*@Html.DisplayNameFor(model => model.ReklamAciklama)*@
+            AÇIKLAMA
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.ReklamBaslangicTarihi)*@
+            BAŞLANGIÇ TARİHİ
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.ReklamBitisTarihi)*@
+            BİTİŞ TARİHİ
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Resim1)*@
+            RESİM 1
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Resim2)*@
+            RESİM 2
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Resim3)*@
+            RESİM 3
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReklamAciklama)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReklamBaslangicTarihi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReklamBitisTarihi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Resim1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Resim2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Resim3)
+            </td>
+            <td>
+                @Html.ActionLink("Güncelle", "ReklamGuncelle", new { GuncelleId = item.ReklamID }, new { @class = "btn-sm btn-info waves-effect" })
+                @Html.ActionLink("Detay", "ReklamDetay", new { DetayId = item.ReklamID }, new { @class = "btn-sm btn-warning waves-effect" })
+                @Html.ActionLink("Sil", "ReklamSil", new { SilId = item.ReklamID }, new { @class = "btn-sm btn-danger waves-effect" })
+            </td>
+        </tr>
+    }
+
+</table>
+@Html.PagedListPager(Model, numara => Url.Action("ReklamListesi", "Reklam", new { sayfaNo = numara }))

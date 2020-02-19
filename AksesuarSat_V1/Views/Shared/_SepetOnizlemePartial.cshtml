@@ -1,0 +1,44 @@
+﻿@*@model List<AksesuarSat_V1.Controllers.SepetController.SepetSanalClass>*@
+<div id="shopping-cart">
+    <div class="shopping-cart-list">
+
+
+        @*
+
+        @foreach (var item in Model)
+        {
+        <div class="product product-widget">
+            <div class="product-thumb">
+                <img src="~/site/img/thumb-product01.jpg" alt="">
+            </div>
+            <div class="product-body">
+                <h3 class="product-price">@item.urun_fiyat <span class="qty">@item.adet</span></h3>
+                <!--aynı üründen birden fazla eklenecekse metot yazılmalı-->
+                <h2 class="product-name"><a href="#">@item.urun_adi</a></h2>
+            </div>
+            <button class="cancel-btn">
+            <i class="fa fa-trash"></i></button>
+        </div>
+        }
+        *@
+
+        <div class="product product-widget">
+            <div class="product-thumb">
+                <img src="~/site/img//thumb-product01.jpg" alt="">
+            </div>
+            <div class="product-body">
+                <h3 class="product-price">$32.50 <span class="qty">x3</span></h3>
+                <h2 class="product-name"><a href="#">Product Name Goes Here</a></h2>
+            </div>
+            <button class="cancel-btn"><i class="fa fa-trash"></i></button>
+        </div>
+    </div>
+    <div class="shopping-cart-btns">
+        <a class="main-btn" href="/Sepet/SepetListesi">Sepete Git</a>
+        @*<button class="main-btn">View Cart</button>*@
+        <button class="primary-btn">
+            Checkout <i class="fa fa-arrow-circle-right">
+            </i>
+        </button>
+    </div>
+</div>

@@ -1,0 +1,51 @@
+﻿@model AksesuarSat_V1.Models.Yetkiler
+
+@{
+    ViewBag.Title = "YetkiGuncelle";
+    //Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+    Layout = null;
+}
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>YETKİ GÜNCELLE</title>
+    <link href="~/Areas/AdminPaneli/bsb/plugins/bootstrap/css/bootstrap.css" rel="stylesheet" />
+</head>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal col col-md-6 margin-2">
+        <h4>Yetkiler</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.YetkilerID)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.YetkiAdi, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.YetkiAdi, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.YetkiAdi, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.PersonelID, "PersonelID", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("PersonelID", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.PersonelID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Listeye geri dön", "YetkiListesi")
+</div>

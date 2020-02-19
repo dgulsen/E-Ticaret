@@ -1,0 +1,59 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+
+@model IPagedList<AksesuarSat_V1.Models.sp_UyeAdresSayisi_Result>
+
+@{
+    ViewBag.Title = "UyeAdresListesi";
+    Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="header" style="background-color:#009688;text-align:center;color:white;">
+    <h2 style="color:white;">ÜYE ADRESLERİ LİSTESİ</h2>
+</div>
+<p>
+    @Html.ActionLink("Yeni Adres Ekle", "UyeAdresEkleIndex", null, new { @class = "btn btn-success" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            ÜYE ADI
+        </th>
+        <th>
+            ÜYE SOYADI
+        </th>
+        <th>
+            ADRES SAYISI
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+
+        <tr>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.UyeAdi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UyeSoyadi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UyeAdresSayisi)
+            </td>
+            <td>
+                @Html.ActionLink("Gnc", "UyeAdresGuncelle", new { guncelleId = item.UyelerID }, new { @class = "btn btn-info" })
+
+                @Html.ActionLink("Dty", "AdresDetay", new { detayId = item.UyelerID }, new { @class = "btn btn-warning" })
+
+
+            </td>
+
+        </tr>
+
+
+    }
+
+</table>
+@Html.PagedListPager(Model, numara => Url.Action("UyeAdresListesi", "UyeAdresleri", new { sayfaNo = numara }))

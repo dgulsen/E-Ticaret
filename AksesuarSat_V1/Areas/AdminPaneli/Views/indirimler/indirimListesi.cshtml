@@ -1,0 +1,86 @@
+﻿@*@model IEnumerable<AksesuarSat_V1.Models.indirimler>*@
+@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<AksesuarSat_V1.Models.indirimler>
+
+@{
+    ViewBag.Title = "indirimListesi";
+    Layout = "~/Areas/AdminPaneli/Views/Shared/AdminLayout.cshtml";
+}
+
+<div class="header" style="background-color:#fea003; text-align:center;">
+    <h2 style=" color:white">İndirimler Listesi</h2>
+</div>
+
+<p style="text-align:right;margin:0px 65px 0px 0px">
+    @Html.ActionLink("İndirim Ekle", "indirimEkleIndex", null, new { @class = "btn btn-success" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @*@Html.DisplayNameFor(model => model.indirimTurAdi)*@
+            İndirim Tür Adı
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.indirimFiyatSekli)*@
+            Fiyat Şekli
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.BaslamaTarihi)*@
+            Başlangıç Tarihi
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.BitisTarihi)*@
+            Bitiş Tarihi
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.indirimMiktari)*@
+            İndirim Miktarı
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Durumu)*@
+            @*Durumu*@
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Aciklama)*@
+            Açıklama
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.indirimTurAdi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.indirimFiyatSekli)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BaslamaTarihi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BitisTarihi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.indirimMiktari)
+            </td>
+            <td>
+                @*@Html.DisplayFor(modelItem => item.Durumu)*@
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Aciklama)
+            </td>
+            <td>
+                @Html.ActionLink("Gnc", "indirimGuncelle", new { guncelleId = item.indirimlerID }, new { @class = "btn btn-info" })
+                @Html.ActionLink("Dty", "indirimDetay", new { detayId = item.indirimlerID }, new { @class = "btn btn-warning" })
+                @Html.ActionLink("Sil", "indirimSil", new { silId = item.indirimlerID }, new { @class = "btn btn-danger" })
+            </td>
+        </tr>
+    }
+
+</table>
+<div style="text-align:center">
+    @Html.PagedListPager(Model, numara => Url.Action("indirimListesi", "indirimler", new { sayfNo = numara }))
+</div>

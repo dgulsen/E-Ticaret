@@ -1,0 +1,89 @@
+﻿@model List<AksesuarSat_V1.Models.Yorumlar>
+    @using  AksesuarSat_V1.Areas.AdminPaneli.Models
+
+
+@*@{
+       UrunYorumManage mng = new UrunYorumManage();
+        var liste = mng.YorumListesi(Model.FirstOrDefault().UrunID);
+        List<Yorumlar> liste2 = new List<Yorumlar>();
+        //
+        if (liste.Count()>0)
+        {
+            //YorumUstID=>
+            var sonuc = liste.FirstOrDefault().YorumlarID;
+            if (sonuc > 0)
+            {
+                liste2 = mng.YorumaYorum(liste.FirstOrDefault().UrunID);
+            }
+        }
+    }*@
+
+@{ 
+    UyelerManage uye_mng = new UyelerManage();
+}
+<div class="product-reviews">
+
+    @if (Model.Count() > 0)
+    {
+        foreach (var item in Model)
+        {
+            <div class="single-review">
+                <div class="review-heading">
+                    <div>
+                        <a href="#">
+                            <i class="fa fa-user-o"></i>
+                            @if (item.UyeID != null)
+                            {
+                                <p> @uye_mng.UyeListesi().FirstOrDefault(k=>k.UyelerID==item.UyeID).NickName</p>
+                            }
+                            else
+                            {
+                                <p>Misafir</p>
+
+                            }
+                        </a>
+                    </div>
+                    <div><a href="#"><i class="fa fa-clock-o"></i>@item.YorumTarih</a></div>
+                    <div class="review-rating pull-right">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star-o empty"></i>
+                    </div>
+                </div>
+                <div class="review-body">
+                    <p>
+                        @item.YorumIcerik
+                    </p>
+                    @*@foreach (var altyorum in liste2)
+                        {
+                            <div class="col-md-8 text-right">
+                                @altyorum.YorumIcerik
+                                <hr />
+                            </div>
+
+                        }*@
+
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <div class="single-review bg bg-brown">
+            <b style="color:orange;text-align:center"> Bu ürüne ait yorum bulunmamaktadır</b>
+        </div>
+    }
+
+    <ul class="reviews-pages">
+        <li class="active">1</li>
+        <li><a href="#">2</a></li>
+        <li><a href="#">3</a></li>
+        <li><a href="#"><i class="fa fa-caret-right"></i></a></li>
+    </ul>
+</div>
+
+
+
+
